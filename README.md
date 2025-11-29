@@ -28,6 +28,11 @@ Make it a snake Game, generate a snake path where the cells get eaten in an orde
 ![](https://nirzak-streak-stats.vercel.app/?user=taskinul&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taskinul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=taskinul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
